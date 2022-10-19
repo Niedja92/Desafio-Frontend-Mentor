@@ -1,63 +1,52 @@
 body {
     display: block;
-    margin: 0px;
-    background-color: #0e0e0e;
     height: 100%;
-   
-}
-
-main {
     background-color: #c8dfe2;
 }
 
 div {
-    width: 540px;
     background-color:white;
-  
-}
-
-.aling {
-    background: white;
+    float: none;
+    border-radius: 15px;
     width: 250px;
     margin: 150px auto;
-    border-radius: 10px;
-    
+   
 }
+
 .qrcode {
     display: block;
-    padding: 50px 0;
+    padding: 15px 10px 15px;
     margin: auto;
     width: 90%;
+    border-radius: 23px;
     
 }
 
 h1{
-    text-align: center;
-    font-family:Arial, Helvetica, sans-serif;
+    text-align:i center;
     font-size: 15px;
     font-weight: bold;
     color: black;
     text-align: center;
-    box-sizing: border-box;
-
+    font-family: 'Rubik', sans-serif;
 }
 
 p {
     text-align: center;
-    font-size: 10px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    font-family: 'Rubik', sans-serif;
     color: gray;
     text-align:center;
-    box-sizing: border-box;
-
+    padding-bottom: 30px;
 }
 
 
 .attribution { 
-    font-size: 11px; 
+    font-size: 11px;
     text-align: center;
 }
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+    text-align: center;
 }
