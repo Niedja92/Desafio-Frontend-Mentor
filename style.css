@@ -18,26 +18,30 @@ div {
     padding: 15px 10px 15px;
     margin: auto;
     width: 90%;
-    border-radius: 23px;
-    
+    border-radius: 23px;  
 }
 
 h1{
-    text-align:i center;
-    font-size: 15px;
+    text-align: center;
+    font-size: 18px;
     font-weight: bold;
     color: black;
     text-align: center;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Jost', sans-serif;
+    margin: 16px;
+    
 }
 
 p {
     text-align: center;
     font-size: 12px;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Jost', sans-serif;
     color: gray;
     text-align:center;
-    padding-bottom: 30px;
+    padding-bottom: 28px;
+    margin: 20px;
 }
 
 
