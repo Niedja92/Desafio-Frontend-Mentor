@@ -31,6 +31,7 @@ h1{
     font-family: 'Jost', sans-serif;
     margin: 16px;
     
+    
 }
 
 p {
@@ -48,9 +49,10 @@ p {
 .attribution { 
     font-size: 11px;
     text-align: center;
+    padding-bottom: 50px;    
 }
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
-    text-align: center;
+    text-align: center;   
 }
